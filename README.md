@@ -32,4 +32,5 @@ ps: 这份存档里，我的妻子是裴忆雪
 ![](https://raw.githubusercontent.com/XHXIAIEIN/guigubahuang_data_backup/main/02_limochou/02_limochou.jpg)
 
 **人物设定**: 
+离莫愁，离莫愁，貌若天仙，毒如蛇蝎。杀人就是她的爱好。
 
