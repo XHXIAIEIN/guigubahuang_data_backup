@@ -11,7 +11,7 @@
 - **性格**：无私，天伦，传承
 - **开场**：选择救助2名修仙者
 
-![](https://raw.githubusercontent.com/XHXIAIEIN/guigubahuang_data_backup/main/01_tianmingzhe/01_tianmingzhe.jpg)
+![](https://raw.githubusercontent.com/XHXIAIEIN/guigubahuang_CacheData/main/01_tianmingzhe/01_tianmingzhe.jpg)
 
 **人物设定**:   
 眯着眼睛的江湖老好人，混乱中立。背后整个家族全都是天命者(假如有家人)，配合修改器家财万贯，富可敌国。背包里常备各州传送符，云游天下，见人就送礼，到了城镇请所有人喝酒，遇到陷入瓶颈的修仙者送上集气丸，遇到背包空间满的送上储存戒，遇到没有坐骑的便送上飞剑一把。在拍卖会高价收购所有的高级功法将它赠送给有缘人。他几乎没有仇家，所有人都对他有好感。特别是长得好看的姑娘，送的必定是上品！
@@ -32,7 +32,7 @@ ps:
 - **性格**：邪恶，权力，睚眦
 - **开场**：选择杀死2名修仙者
 
-![](https://raw.githubusercontent.com/XHXIAIEIN/guigubahuang_data_backup/main/02_limochou/02_limochou.jpg)
+![](https://raw.githubusercontent.com/XHXIAIEIN/guigubahuang_CacheData/main/02_limochou/02_limochou.jpg)
 
 **人物设定**: 
 离莫愁，离莫愁，貌若天仙，毒如蛇蝎。杀人就是她的爱好。
